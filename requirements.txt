@@ -1,4 +1,3 @@
-datetime
-json
-hashlib
-Flask
+datetime==4.8
+json==3.5
+Flask==3.0.3
